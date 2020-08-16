@@ -1,0 +1,2 @@
+{:deps {}
+ :aliases {:dev-local {:extra-deps {com.datomic/dev-local {:mvn/version "0.9.184"}}}}}
